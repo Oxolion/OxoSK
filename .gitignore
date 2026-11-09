@@ -1,0 +1,6 @@
+# SECURITE : jamais de code source .sk dans ce depot PUBLIC
+*.sk
+
+# Divers
+.DS_Store
+Thumbs.db
