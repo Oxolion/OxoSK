@@ -17,4 +17,4 @@ Menu : /outil (ou accroupi + clic droit). Remplace FortuneHoe et XP sur minerais
 
 ---
 
-Script protege OxoSK, chiffre et charge par le plugin CoreOxoSK. Fichier : `outils-niveaux.enc`.
+Script protege OxoSK, chiffre et charge par le plugin CoreOxoSK. Fichier : `Outils-XP-Farm-Niveaux.enc`.
