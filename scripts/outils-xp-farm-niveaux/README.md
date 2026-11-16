@@ -10,6 +10,7 @@ Tes outils gagnent de l'XP et des niveaux, et débloquent des pouvoirs custom da
 - Évolution du matériau : fer, diamant puis Netherite (points + vrais matériaux).
 - Prestige au niveau max : étoiles, les 2 voies débloquées et 2 ultimes.
 - Farm : Fortune sur la houe (vrai bonus de récolte sur toutes les houes) et XP sur les minerais qui n'en donnent pas en vanilla (fer, or, cuivre, débris antiques).
+- Boost Unbreaking : une vraie chance bonus d'ignorer la perte de durabilité selon le niveau d'Unbreaking (sur tout item, jusqu'à l'incassable).
 - Barres de boss pour l'XP de l'outil et la recharge de l'ultime.
 - Équilibré pour le multijoueur : casses en zone qui respectent les protections, anti-farm des blocs posés et des spawners, pouvoirs de zone limités aux monstres.
 

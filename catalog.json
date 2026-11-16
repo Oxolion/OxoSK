@@ -16,16 +16,6 @@
                                    ]
                     },
                     {
-                        "slug":  "unbreaking-boost",
-                        "nom":  "Boost Unbreaking",
-                        "prix":  1.49,
-                        "description":  "Ajoute une vraie chance bonus d\u0027ignorer la perte de durabilité, en plus de l\u0027Unbreaking vanilla (15/30/45 % aux niveaux 1 à 3, et au-delà pour les items custom). Plafond réglable, jusqu\u0027à l\u0027incassable.",
-                        "fichier":  "unbreaking-boost/unbreaking-boost.enc",
-                        "images":  [
-
-                                   ]
-                    },
-                    {
                         "slug":  "coffre-perso",
                         "nom":  "Coffre personnel et deplacement de coffres",
                         "prix":  3.99,
@@ -59,7 +49,7 @@
                         "slug":  "outils-xp-farm-niveaux",
                         "nom":  "Outils, XP et Farm a niveaux",
                         "prix":  6.99,
-                        "description":  "Tes outils gagnent de l\u0027XP et des niveaux, et débloquent des pouvoirs custom dans un arbre d\u0027évolution.\n\n- 11 outils, chacun avec son arbre : pioche, hache, pelle, épée, houe, lance, arc, arbalète, trident, canne à pêche et cisailles.\n- 2 voies exclusives par outil, avec un ultime à la touche F (Séisme, Tempête, Moisson, Maelström, Barrage...).\n- Tronc commun : auto-réparation, aimant, lien d\u0027âme (l\u0027outil reste à la mort).\n- Évolution du matériau : fer, diamant puis Netherite (points + vrais matériaux).\n- Prestige au niveau max : étoiles, les 2 voies débloquées et 2 ultimes.\n- Farm : Fortune sur la houe (vrai bonus de récolte sur toutes les houes) et XP sur les minerais qui n\u0027en donnent pas en vanilla (fer, or, cuivre, débris antiques).\n- Barres de boss pour l\u0027XP de l\u0027outil et la recharge de l\u0027ultime.\n- Équilibré pour le multijoueur : casses en zone qui respectent les protections, anti-farm des blocs posés et des spawners, pouvoirs de zone limités aux monstres.\n\nMenu : /outil (ou accroupi + clic droit). Remplace FortuneHoe et XP sur minerais (à retirer). Nécessite skript-reflect.",
+                        "description":  "Tes outils gagnent de l\u0027XP et des niveaux, et débloquent des pouvoirs custom dans un arbre d\u0027évolution.\n\n- 11 outils, chacun avec son arbre : pioche, hache, pelle, épée, houe, lance, arc, arbalète, trident, canne à pêche et cisailles.\n- 2 voies exclusives par outil, avec un ultime à la touche F (Séisme, Tempête, Moisson, Maelström, Barrage...).\n- Tronc commun : auto-réparation, aimant, lien d\u0027âme (l\u0027outil reste à la mort).\n- Évolution du matériau : fer, diamant puis Netherite (points + vrais matériaux).\n- Prestige au niveau max : étoiles, les 2 voies débloquées et 2 ultimes.\n- Farm : Fortune sur la houe (vrai bonus de récolte sur toutes les houes) et XP sur les minerais qui n\u0027en donnent pas en vanilla (fer, or, cuivre, débris antiques).\n- Boost Unbreaking : une vraie chance bonus d\u0027ignorer la perte de durabilité selon le niveau d\u0027Unbreaking (sur tout item, jusqu\u0027à l\u0027incassable).\n- Barres de boss pour l\u0027XP de l\u0027outil et la recharge de l\u0027ultime.\n- Équilibré pour le multijoueur : casses en zone qui respectent les protections, anti-farm des blocs posés et des spawners, pouvoirs de zone limités aux monstres.\n\nMenu : /outil (ou accroupi + clic droit). Remplace FortuneHoe et XP sur minerais (à retirer). Nécessite skript-reflect.",
                         "fichier":  "outils-xp-farm-niveaux/Outils-XP-Farm-Niveaux.enc",
                         "images":  [
 
