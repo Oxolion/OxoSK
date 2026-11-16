@@ -1,6 +1,6 @@
 # CoreOxoSK - versions des scripts (slug=sha256 de la source)
 # Genere par build-repo, ne pas editer a la main.
-armure-niveaux=c724a9441a7d0fd0ed1382fcdeaee932a769d92f80b3ccaf09b1933e89eb521c
+armure-niveaux=f305f90aaa877aed7fb0a70ebe72914755872928e8cd16390bc5daf61f86487c
 clearlag=a2a6c953fbe7741c04d863fb4d09b943bcf03f7bb081e976f04568a920786d3f
 coffre-perso=605dcb04f2a3ab2b0ff4885e3a41fc3ca1c0d53d40d678c46d5ee9ba22118fda
 deplacer-coffres=74214c936967a5a36cb723a1d83445ce854c0e3f9f7fe123e4eae4fa1f6a1432
