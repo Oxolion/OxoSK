@@ -27,20 +27,10 @@
                     },
                     {
                         "slug":  "coffre-perso",
-                        "nom":  "Coffre personnel",
+                        "nom":  "Coffre personnel et deplacement de coffres",
                         "prix":  3.99,
-                        "description":  "Un coffre personnel accessible partout, qui grandit avec le joueur : de 9 à 135 cases sur 15 niveaux et 3 pages.\n\n- Ouverture avec /coffre, ou accroupi + clic droit sur un coffre de l\u0027Ender.\n- Ligne d\u0027options intégrée : infos, pages, barre de progression, amélioration et fermeture.\n- Bouton Déposer (range d\u0027un clic les objets déjà présents) et bouton Trier (regroupe et trie les piles).\n- Améliorations payées en XP et en vrais matériaux : fer, or, diamant puis netherite.\n- Bonus de rangées par permission (coffre.bonus.1 à 5) pour les grades VIP.\n- Anti-duplication : sauvegarde à chaque clic, une seule ouverture à la fois, aucun objet perdu ni dupliqué en cas de crash.\n- Anti-abus : coffre inaccessible en combat, shulkers et sacs refusés (option).\n- Admin : /coffre voir (même hors ligne), /coffre niveau, /coffre historique.\n\nNécessite skript-reflect.",
+                        "description":  "Un coffre personnel accessible partout, qui grandit avec le joueur : de 9 à 135 cases sur 15 niveaux et 3 pages. Inclut aussi le déplacement des coffres pleins.\n\n- Ouverture avec /coffre, ou accroupi + clic droit sur un coffre de l\u0027Ender.\n- Ligne d\u0027options intégrée : infos, pages, barre de progression, amélioration et fermeture.\n- Bouton Déposer (range d\u0027un clic les objets déjà présents) et bouton Trier (regroupe et trie les piles).\n- Améliorations payées en XP et en vrais matériaux : fer, or, diamant puis netherite.\n- Bonus de rangées par permission (coffre.bonus.1 à 5) pour les grades VIP.\n- Anti-duplication : sauvegarde à chaque clic, une seule ouverture à la fois, aucun objet perdu ni dupliqué en cas de crash.\n- Anti-abus : coffre inaccessible en combat, shulkers et sacs refusés (option).\n- Déplacement de coffres : accroupi + clic droit main vide sur un coffre, coffre piégé ou tonneau pour le ramasser avec tout son contenu, repose-le pour tout restaurer. Les coffres doubles donnent 2 moitiés liées, à reposer côte à côte.\n- Anti-perte et anti-duplication au déplacement : contenu effacé dès la pose (une copie de l\u0027objet reste vide), rien n\u0027est jamais écrasé ni perdu.\n- Admin : /coffre voir (même hors ligne), /coffre niveau, /coffre historique.\n\nNécessite skript-reflect.",
                         "fichier":  "coffre-perso/coffre-perso.enc",
-                        "images":  [
-
-                                   ]
-                    },
-                    {
-                        "slug":  "deplacer-coffres",
-                        "nom":  "Deplacer les coffres pleins",
-                        "prix":  1.99,
-                        "description":  "Déplace un coffre avec tout son contenu : accroupi + clic droit main vide pour le ramasser, repose-le pour tout restaurer. Gère les coffres doubles et intègre une solide protection anti-perte et anti-duplication.",
-                        "fichier":  "deplacer-coffres/deplacer-coffres.enc",
                         "images":  [
 
                                    ]
