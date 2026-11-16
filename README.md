@@ -8,7 +8,6 @@ Scripts Minecraft (Skript) proteges, charges par le plugin CoreOxoSK.
 | Boost Unbreaking | 1,49 EUR | [unbreaking-boost](scripts/unbreaking-boost/) |
 | Coffre personnel | 3,99 EUR | [coffre-perso](scripts/coffre-perso/) |
 | Deplacer les coffres pleins | 1,99 EUR | [deplacer-coffres](scripts/deplacer-coffres/) |
-| Fortune Hoe | 1,49 EUR | [fortunehoe](scripts/fortunehoe/) |
 | Laisse PNJ | 1,49 EUR | [laisse-pnj](scripts/laisse-pnj/) |
 | Lune de sang | 2,99 EUR | [lune-de-sang](scripts/lune-de-sang/) |
 | Outils a niveaux | 6,99 EUR | [outils-niveaux](scripts/outils-niveaux/) |
