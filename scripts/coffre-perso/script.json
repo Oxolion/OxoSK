@@ -2,7 +2,7 @@
     "slug":  "coffre-perso",
     "nom":  "Coffre personnel",
     "prix":  3.99,
-    "description":  "Un coffre personnel accessible partout avec /coffre, évolutif de 9 à 45 cases sur 5 niveaux. Contenu sauvegardé, protection anti-duplication (une seule ouverture à la fois) et accès admin aux coffres des joueurs, même hors ligne.",
+    "description":  "Un coffre personnel accessible partout, qui grandit avec le joueur : de 9 à 135 cases sur 15 niveaux et 3 pages.\n\n- Ouverture avec /coffre, ou accroupi + clic droit sur un coffre de l'Ender.\n- Ligne d'options intégrée : infos, pages, barre de progression, amélioration et fermeture.\n- Bouton Déposer (range d'un clic les objets déjà présents) et bouton Trier (regroupe et trie les piles).\n- Améliorations payées en XP et en vrais matériaux : fer, or, diamant puis netherite.\n- Bonus de rangées par permission (coffre.bonus.1 à 5) pour les grades VIP.\n- Anti-duplication : sauvegarde à chaque clic, une seule ouverture à la fois, aucun objet perdu ni dupliqué en cas de crash.\n- Anti-abus : coffre inaccessible en combat, shulkers et sacs refusés (option).\n- Admin : /coffre voir (même hors ligne), /coffre niveau, /coffre historique.\n\nNécessite skript-reflect.",
     "fichier":  "coffre-perso.enc",
     "images":  [
 
