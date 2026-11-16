@@ -10,7 +10,6 @@ Scripts Minecraft (Skript) proteges, charges par le plugin CoreOxoSK.
 | Deplacer les coffres pleins | 1,99 EUR | [deplacer-coffres](scripts/deplacer-coffres/) |
 | Laisse PNJ | 1,49 EUR | [laisse-pnj](scripts/laisse-pnj/) |
 | Lune de sang | 2,99 EUR | [lune-de-sang](scripts/lune-de-sang/) |
-| Outils a niveaux | 6,99 EUR | [outils-niveaux](scripts/outils-niveaux/) |
+| Outils, XP et Farm a niveaux | 6,99 EUR | [outils-niveaux](scripts/outils-niveaux/) |
 | ClearLag | Gratuit | [clearlag](scripts/clearlag/) |
 | Surbrillance privee | Gratuit | [glow-prive](scripts/glow-prive/) |
-| XP sur minerais | Gratuit | [xp-minerais](scripts/xp-minerais/) |
