@@ -1,0 +1,10 @@
+{
+    "slug":  "outils-niveaux",
+    "nom":  "Outils a niveaux",
+    "prix":  6.99,
+    "description":  "Tes outils gagnent de l\u0027XP et des niveaux. Débloque des pouvoirs custom dans un arbre d\u0027évolution (aimant, auto-réparation, ultimes à la touche F) et fais-les évoluer du fer à la Netherite. Pioche, hache, pelle, épée, houe, arc, lance. Menu : /outil.",
+    "fichier":  "outils-niveaux.enc",
+    "images":  [
+
+               ]
+}

@@ -1,0 +1,10 @@
+{
+    "slug":  "xp-minerais",
+    "nom":  "XP sur minerais",
+    "prix":  0,
+    "description":  "Donne de l\u0027XP en minant les minerais qui n\u0027en lâchent pas en vanilla : fer, or, cuivre et débris antiques. Quantités réglables par minerai et option de blocage au Toucher de soie.",
+    "fichier":  "xp-minerais.enc",
+    "images":  [
+
+               ]
+}

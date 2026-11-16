@@ -1,0 +1,10 @@
+{
+    "slug":  "coffre-perso",
+    "nom":  "Coffre personnel",
+    "prix":  3.99,
+    "description":  "Un coffre personnel accessible partout avec /coffre, évolutif de 9 à 45 cases sur 5 niveaux. Contenu sauvegardé, protection anti-duplication (une seule ouverture à la fois) et accès admin aux coffres des joueurs, même hors ligne.",
+    "fichier":  "coffre-perso.enc",
+    "images":  [
+
+               ]
+}

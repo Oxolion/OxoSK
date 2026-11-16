@@ -1,0 +1,10 @@
+{
+    "slug":  "deplacer-coffres",
+    "nom":  "Deplacer les coffres pleins",
+    "prix":  1.99,
+    "description":  "Déplace un coffre avec tout son contenu : accroupi + clic droit main vide pour le ramasser, repose-le pour tout restaurer. Gère les coffres doubles et intègre une solide protection anti-perte et anti-duplication.",
+    "fichier":  "deplacer-coffres.enc",
+    "images":  [
+
+               ]
+}

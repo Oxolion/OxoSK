@@ -1,0 +1,10 @@
+{
+    "slug":  "unbreaking-boost",
+    "nom":  "Boost Unbreaking",
+    "prix":  1.49,
+    "description":  "Ajoute une vraie chance bonus d\u0027ignorer la perte de durabilité, en plus de l\u0027Unbreaking vanilla (15/30/45 % aux niveaux 1 à 3, et au-delà pour les items custom). Plafond réglable, jusqu\u0027à l\u0027incassable.",
+    "fichier":  "unbreaking-boost.enc",
+    "images":  [
+
+               ]
+}

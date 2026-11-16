@@ -1,0 +1,15 @@
+{
+    "slug":  "armure-niveaux",
+    "nom":  "Armure a niveaux",
+    "prix":  6.99,
+    "description":  "Chaque pièce d\u0027armure gagne de l\u0027XP et monte en niveau. Dépense tes points dans un arbre de pouvoirs custom (auto-réparation, lien d\u0027âme, ultimes qui se déclenchent en situation critique) et fais évoluer ton équipement de la maille à la Netherite. Menu : /armure.",
+    "fichier":  "armure-niveaux.enc",
+    "images":  [
+                   "img/1-menu.png",
+                   "img/2-casque.webp",
+                   "img/3-plastron.webp",
+                   "img/4-jambieres.webp",
+                   "img/5-bottes.webp",
+                   "img/6-arbre.png"
+               ]
+}
