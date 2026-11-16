@@ -1,0 +1,99 @@
+{
+    "scripts": [
+        {
+            "slug": "armure-niveaux",
+            "nom": "Armure a niveaux",
+            "prix": 6.99,
+            "description": "Chaque pièce d'armure gagne de l'XP et monte en niveau. Dépense tes points dans un arbre de pouvoirs custom (auto-réparation, lien d'âme, ultimes qui se déclenchent en situation critique) et fais évoluer ton équipement de la maille à la Netherite. Menu : /armure.",
+            "fichier": "armure-niveaux.enc",
+            "images": [
+                "armure-niveaux/1-menu.png",
+                "armure-niveaux/2-casque.webp",
+                "armure-niveaux/3-plastron.webp",
+                "armure-niveaux/4-jambieres.webp",
+                "armure-niveaux/5-bottes.webp",
+                "armure-niveaux/6-arbre.png"
+            ]
+        },
+        {
+            "slug": "unbreaking-boost",
+            "nom": "Boost Unbreaking",
+            "prix": 1.49,
+            "description": "Ajoute une vraie chance bonus d'ignorer la perte de durabilité, en plus de l'Unbreaking vanilla (15/30/45 % aux niveaux 1 à 3, et au-delà pour les items custom). Plafond réglable, jusqu'à l'incassable.",
+            "fichier": "unbreaking-boost.enc",
+            "images": []
+        },
+        {
+            "slug": "coffre-perso",
+            "nom": "Coffre personnel",
+            "prix": 3.99,
+            "description": "Un coffre personnel accessible partout avec /coffre, évolutif de 9 à 45 cases sur 5 niveaux. Contenu sauvegardé, protection anti-duplication (une seule ouverture à la fois) et accès admin aux coffres des joueurs, même hors ligne.",
+            "fichier": "coffre-perso.enc",
+            "images": []
+        },
+        {
+            "slug": "deplacer-coffres",
+            "nom": "Deplacer les coffres pleins",
+            "prix": 1.99,
+            "description": "Déplace un coffre avec tout son contenu : accroupi + clic droit main vide pour le ramasser, repose-le pour tout restaurer. Gère les coffres doubles et intègre une solide protection anti-perte et anti-duplication.",
+            "fichier": "deplacer-coffres.enc",
+            "images": []
+        },
+        {
+            "slug": "fortunehoe",
+            "nom": "Fortune Hoe",
+            "prix": 1.49,
+            "description": "Rend enfin l'enchantement Fortune utile sur les houes : récoltes et graines bonus en cassant des cultures mûres (blé, carottes, pommes de terre, betteraves, verrues du Nether). Chance et bonus entièrement réglables.",
+            "fichier": "fortunehoe.enc",
+            "images": []
+        },
+        {
+            "slug": "laisse-pnj",
+            "nom": "Laisse PNJ",
+            "prix": 1.49,
+            "description": "Mets en laisse les villageois et marchands ambulants et accroche-les à une barrière, comme n'importe quel animal. Clic droit pour attacher ou détacher, avec nettoyage automatique des nœuds de barrière inutilisés.",
+            "fichier": "laisse-pnj.enc",
+            "images": []
+        },
+        {
+            "slug": "lune-de-sang",
+            "nom": "Lune de sang",
+            "prix": 2.99,
+            "description": "Une nuit au hasard, les monstres autour des joueurs deviennent 2 à 5× plus résistants et frappent 2 à 5× plus fort. Un événement rare et entièrement réglable (chance, multiplicateurs, rayon) pour pimenter tes nuits.",
+            "fichier": "lune-de-sang.enc",
+            "images": []
+        },
+        {
+            "slug": "outils-niveaux",
+            "nom": "Outils a niveaux",
+            "prix": 6.99,
+            "description": "Tes outils gagnent de l'XP et des niveaux. Débloque des pouvoirs custom dans un arbre d'évolution (aimant, auto-réparation, ultimes à la touche F) et fais-les évoluer du fer à la Netherite. Pioche, hache, pelle, épée, houe, arc, lance. Menu : /outil.",
+            "fichier": "outils-niveaux.enc",
+            "images": []
+        },
+        {
+            "slug": "clearlag",
+            "nom": "ClearLag",
+            "prix": 0,
+            "description": "Purge en un clic tous les items au sol de tous les mondes pour soulager ton serveur. Commande /clearlag (ou /cl), protégée par permission, avec le nombre d'items supprimés annoncé.",
+            "fichier": "clearlag.enc",
+            "images": []
+        },
+        {
+            "slug": "glow-prive",
+            "nom": "Surbrillance privee",
+            "prix": 0,
+            "description": "Fais briller le contour d'une entité pour un seul joueur, via paquet réseau : invisible pour le serveur et les autres joueurs. La brique technique derrière les pouvoirs de détection (Instinct, Marque du chasseur, Sonar). Nécessite skript-reflect.",
+            "fichier": "glow-prive.enc",
+            "images": []
+        },
+        {
+            "slug": "xp-minerais",
+            "nom": "XP sur minerais",
+            "prix": 0,
+            "description": "Donne de l'XP en minant les minerais qui n'en lâchent pas en vanilla : fer, or, cuivre et débris antiques. Quantités réglables par minerai et option de blocage au Toucher de soie.",
+            "fichier": "xp-minerais.enc",
+            "images": []
+        }
+    ]
+}
