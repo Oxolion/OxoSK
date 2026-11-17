@@ -1,3 +1,7 @@
+## Apercus en jeu
+
+![outils-xp-farm-niveaux](img/0-banniere.jpg)
+
 # Outils, XP et Farm a niveaux
 
 **Prix :** 6,99 EUR
@@ -15,11 +19,6 @@ Tes outils gagnent de l'XP et des niveaux, et débloquent des pouvoirs custom da
 - Équilibré pour le multijoueur : casses en zone qui respectent les protections, anti-farm des blocs posés et des spawners, pouvoirs de zone limités aux monstres.
 
 Menu : /outil (ou accroupi + clic droit). Remplace FortuneHoe et XP sur minerais (à retirer). Nécessite skript-reflect.
-
-## Apercus en jeu
-
-![outils-xp-farm-niveaux](img/0-banniere.jpg)
-
 
 ---
 
