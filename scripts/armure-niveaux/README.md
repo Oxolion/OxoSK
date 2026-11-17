@@ -1,7 +1,3 @@
-## Apercus en jeu
-
-![armure-niveaux](img/0-banniere.jpg)
-
 # Armure a niveaux
 
 **Prix :** 6,99 EUR
@@ -16,6 +12,10 @@ Ton armure monte en niveau avec toi : chaque pièce gagne de l'XP et débloque s
 - Équilibré pour le multijoueur : XP seulement en combattant (pas de farm AFK), réductions de dégâts plafonnées.
 
 Menu : /armure. Nécessite skript-reflect et le script gratuit Surbrillance privée (glow-prive).
+
+## Apercus en jeu
+
+![armure-niveaux](img/0-banniere.jpg)
 
 
 ---
