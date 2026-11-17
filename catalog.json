@@ -20,30 +20,30 @@
                         "slug":  "coffre-perso",
                         "nom":  "Coffre personnel et deplacement de coffres",
                         "prix":  3.99,
-                        "description":  "Un coffre personnel accessible partout, qui grandit avec le joueur : de 9 à 135 cases sur 15 niveaux et 3 pages. Inclut aussi le déplacement des coffres pleins.\n\n- Ouverture avec /coffre, ou accroupi + clic droit sur un coffre de l\u0027Ender.\n- Ligne d\u0027options intégrée : infos, pages, barre de progression, amélioration et fermeture.\n- Bouton Déposer (range d\u0027un clic les objets déjà présents) et bouton Trier (regroupe et trie les piles).\n- Améliorations payées en XP et en vrais matériaux : fer, or, diamant puis netherite.\n- Bonus de rangées par permission (coffre.bonus.1 à 5) pour les grades VIP.\n- Anti-duplication : sauvegarde à chaque clic, une seule ouverture à la fois, aucun objet perdu ni dupliqué en cas de crash.\n- Anti-abus : coffre inaccessible en combat, shulkers et sacs refusés (option).\n- Déplacement de coffres : accroupi + clic droit main vide sur un coffre, coffre piégé ou tonneau pour le ramasser avec tout son contenu, repose-le pour tout restaurer. Les coffres doubles donnent 2 moitiés liées, à reposer côte à côte.\n- Anti-perte et anti-duplication au déplacement : contenu effacé dès la pose (une copie de l\u0027objet reste vide), rien n\u0027est jamais écrasé ni perdu.\n- Admin : /coffre voir (même hors ligne), /coffre niveau, /coffre historique.\n\nNécessite skript-reflect.",
+                        "description":  "Un coffre personnel accessible partout, qui grandit avec le joueur : de 9 Ã  135 cases sur 15 niveaux et 3 pages. Inclut aussi le dÃ©placement des coffres pleins.\n\n- Ouverture avec /coffre, ou accroupi + clic droit sur un coffre de l\u0027Ender.\n- Ligne d\u0027options intÃ©grÃ©e : infos, pages, barre de progression, amÃ©lioration et fermeture.\n- Bouton DÃ©poser (range d\u0027un clic les objets dÃ©jÃ  prÃ©sents) et bouton Trier (regroupe et trie les piles).\n- AmÃ©liorations payÃ©es en XP et en vrais matÃ©riaux : fer, or, diamant puis netherite.\n- Bonus de rangÃ©es par permission (coffre.bonus.1 Ã  5) pour les grades VIP.\n- Anti-duplication : sauvegarde Ã  chaque clic, une seule ouverture Ã  la fois, aucun objet perdu ni dupliquÃ© en cas de crash.\n- Anti-abus : coffre inaccessible en combat, shulkers et sacs refusÃ©s (option).\n- DÃ©placement de coffres : accroupi + clic droit main vide sur un coffre, coffre piÃ©gÃ© ou tonneau pour le ramasser avec tout son contenu, repose-le pour tout restaurer. Les coffres doubles donnent 2 moitiÃ©s liÃ©es, Ã  reposer cÃ´te Ã  cÃ´te.\n- Anti-perte et anti-duplication au dÃ©placement : contenu effacÃ© dÃ¨s la pose (une copie de l\u0027objet reste vide), rien n\u0027est jamais Ã©crasÃ© ni perdu.\n- Admin : /coffre voir (mÃªme hors ligne), /coffre niveau, /coffre historique.\n\nNÃ©cessite skript-reflect.",
                         "fichier":  "coffre-perso/coffre-perso.enc",
                         "images":  [
-
+                                       "coffre-perso/img/0-banniere.jpg"
                                    ]
                     },
                     {
                         "slug":  "laisse-pnj",
                         "nom":  "Laisse PNJ",
                         "prix":  1.49,
-                        "description":  "Mets en laisse les villageois et marchands ambulants et accroche-les à une barrière, comme n\u0027importe quel animal. Clic droit pour attacher ou détacher, avec nettoyage automatique des nœuds de barrière inutilisés.",
+                        "description":  "Mets en laisse les villageois et marchands ambulants et accroche-les Ã  une barriÃ¨re, comme n\u0027importe quel animal. Clic droit pour attacher ou dÃ©tacher, avec nettoyage automatique des nÅ“uds de barriÃ¨re inutilisÃ©s.",
                         "fichier":  "laisse-pnj/laisse-pnj.enc",
                         "images":  [
-
+                                       "laisse-pnj/img/0-banniere.jpg"
                                    ]
                     },
                     {
                         "slug":  "lune-de-sang",
                         "nom":  "Lune de sang",
                         "prix":  2.99,
-                        "description":  "Une nuit au hasard, la lune vire au rouge : les monstres autour des joueurs deviennent bien plus résistants et frappent plus fort. Survivre jusqu\u0027à l\u0027aube est un vrai défi... et ça rapporte.\n\n- 4 paliers de monstres : Sanguinaire (PV x2, dégâts x1,5), Sanguinaire rouge (PV x3, dégâts x1,75), Bête de sang (PV x4, dégâts x2) et le rare Seigneur de sang (PV x5, dégâts x2,5).\n- Récompenses : XP multipliée jusqu\u0027à x6, émeraude ou diamant en bonus sur les plus gros monstres.\n- Ambiance : titre, son du Wither, barre de boss rouge qui se vide au fil de la nuit, nom de chaque monstre au-dessus de sa tête.\n- Impossible de dormir pour sauter la nuit.\n- Monstres remontés des grottes vers la surface (sol naturel uniquement, jamais sur un toit ou des feuilles).\n- Garantie anti-malchance : après 10 nuits sans Lune de sang, la suivante en est une.\n- Équilibré pour le multijoueur : boss jamais renforcés (Wither, Warden, Elder Guardian), explosion des creepers plafonnée, récompenses seulement si un joueur tue le monstre, spawners et fermes non concernés.\n- Optimisé : seuls les monstres à moins de 4 chunks d\u0027un joueur sont renforcés (20 max par zone), et les monstres de la lune disparaissent à l\u0027aube sans butin.\n- Tout est réglable : chance, garantie, rayon, nombre max, plafond des creepers.\n\nAdmin (OP) : /lunedesang start | stop | force (prochaine nuit) | nettoyer. Nécessite skript-reflect.",
+                        "description":  "Une nuit au hasard, la lune vire au rouge : les monstres autour des joueurs deviennent bien plus rÃ©sistants et frappent plus fort. Survivre jusqu\u0027Ã  l\u0027aube est un vrai dÃ©fi... et Ã§a rapporte.\n\n- 4 paliers de monstres : Sanguinaire (PV x2, dÃ©gÃ¢ts x1,5), Sanguinaire rouge (PV x3, dÃ©gÃ¢ts x1,75), BÃªte de sang (PV x4, dÃ©gÃ¢ts x2) et le rare Seigneur de sang (PV x5, dÃ©gÃ¢ts x2,5).\n- RÃ©compenses : XP multipliÃ©e jusqu\u0027Ã  x6, Ã©meraude ou diamant en bonus sur les plus gros monstres.\n- Ambiance : titre, son du Wither, barre de boss rouge qui se vide au fil de la nuit, nom de chaque monstre au-dessus de sa tÃªte.\n- Impossible de dormir pour sauter la nuit.\n- Monstres remontÃ©s des grottes vers la surface (sol naturel uniquement, jamais sur un toit ou des feuilles).\n- Garantie anti-malchance : aprÃ¨s 10 nuits sans Lune de sang, la suivante en est une.\n- Ã‰quilibrÃ© pour le multijoueur : boss jamais renforcÃ©s (Wither, Warden, Elder Guardian), explosion des creepers plafonnÃ©e, rÃ©compenses seulement si un joueur tue le monstre, spawners et fermes non concernÃ©s.\n- OptimisÃ© : seuls les monstres Ã  moins de 4 chunks d\u0027un joueur sont renforcÃ©s (20 max par zone), et les monstres de la lune disparaissent Ã  l\u0027aube sans butin.\n- Tout est rÃ©glable : chance, garantie, rayon, nombre max, plafond des creepers.\n\nAdmin (OP) : /lunedesang start | stop | force (prochaine nuit) | nettoyer. NÃ©cessite skript-reflect.",
                         "fichier":  "lune-de-sang/lune-de-sang.enc",
                         "images":  [
-
+                                       "lune-de-sang/img/0-banniere.jpg"
                                    ]
                     },
                     {
@@ -60,20 +60,20 @@
                         "slug":  "clearlag",
                         "nom":  "ClearLag",
                         "prix":  0,
-                        "description":  "Purge en un clic tous les items au sol de tous les mondes pour soulager ton serveur. Commande /clearlag (ou /cl), protégée par permission, avec le nombre d\u0027items supprimés annoncé.",
+                        "description":  "Purge en un clic tous les items au sol de tous les mondes pour soulager ton serveur. Commande /clearlag (ou /cl), protÃ©gÃ©e par permission, avec le nombre d\u0027items supprimÃ©s annoncÃ©.",
                         "fichier":  "clearlag/clearlag.enc",
                         "images":  [
-
+                                       "clearlag/img/0-banniere.jpg"
                                    ]
                     },
                     {
                         "slug":  "glow-prive",
                         "nom":  "Surbrillance privee",
                         "prix":  0,
-                        "description":  "Fais briller le contour d\u0027une entité pour un seul joueur, via paquet réseau : invisible pour le serveur et les autres joueurs. La brique technique derrière les pouvoirs de détection (Instinct, Marque du chasseur, Sonar). Nécessite skript-reflect.",
+                        "description":  "Fais briller le contour d\u0027une entitÃ© pour un seul joueur, via paquet rÃ©seau : invisible pour le serveur et les autres joueurs. La brique technique derriÃ¨re les pouvoirs de dÃ©tection (Instinct, Marque du chasseur, Sonar). NÃ©cessite skript-reflect.",
                         "fichier":  "glow-prive/glow-prive.enc",
                         "images":  [
-
+                                       "glow-prive/img/0-banniere.jpg"
                                    ]
                     }
                 ]

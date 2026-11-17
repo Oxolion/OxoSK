@@ -2,7 +2,12 @@
 
 **Prix :** Gratuit
 
-Purge en un clic tous les items au sol de tous les mondes pour soulager ton serveur. Commande /clearlag (ou /cl), protégée par permission, avec le nombre d'items supprimés annoncé.
+Purge en un clic tous les items au sol de tous les mondes pour soulager ton serveur. Commande /clearlag (ou /cl), protÃ©gÃ©e par permission, avec le nombre d'items supprimÃ©s annoncÃ©.
+
+## Apercus en jeu
+
+![clearlag](img/0-banniere.jpg)
+
 
 ---
 

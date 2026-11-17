@@ -1,10 +1,10 @@
-{
+﻿{
     "slug":  "clearlag",
     "nom":  "ClearLag",
     "prix":  0,
-    "description":  "Purge en un clic tous les items au sol de tous les mondes pour soulager ton serveur. Commande /clearlag (ou /cl), protégée par permission, avec le nombre d\u0027items supprimés annoncé.",
+    "description":  "Purge en un clic tous les items au sol de tous les mondes pour soulager ton serveur. Commande /clearlag (ou /cl), protÃ©gÃ©e par permission, avec le nombre d\u0027items supprimÃ©s annoncÃ©.",
     "fichier":  "clearlag.enc",
     "images":  [
-
+                   "img/0-banniere.jpg"
                ]
 }

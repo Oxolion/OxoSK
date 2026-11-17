@@ -1,10 +1,10 @@
-{
+﻿{
     "slug":  "glow-prive",
     "nom":  "Surbrillance privee",
     "prix":  0,
-    "description":  "Fais briller le contour d\u0027une entité pour un seul joueur, via paquet réseau : invisible pour le serveur et les autres joueurs. La brique technique derrière les pouvoirs de détection (Instinct, Marque du chasseur, Sonar). Nécessite skript-reflect.",
+    "description":  "Fais briller le contour d\u0027une entitÃ© pour un seul joueur, via paquet rÃ©seau : invisible pour le serveur et les autres joueurs. La brique technique derriÃ¨re les pouvoirs de dÃ©tection (Instinct, Marque du chasseur, Sonar). NÃ©cessite skript-reflect.",
     "fichier":  "glow-prive.enc",
     "images":  [
-
+                   "img/0-banniere.jpg"
                ]
 }
