@@ -17,18 +17,6 @@ Menu : /armure. Nécessite skript-reflect et le script gratuit Surbrillance priv
 
 ![armure-niveaux](img/0-banniere.jpg)
 
-![armure-niveaux](img/1-menu.png)
-
-![armure-niveaux](img/2-casque.webp)
-
-![armure-niveaux](img/3-plastron.webp)
-
-![armure-niveaux](img/4-jambieres.webp)
-
-![armure-niveaux](img/5-bottes.webp)
-
-![armure-niveaux](img/6-arbre.png)
-
 
 ---
 
