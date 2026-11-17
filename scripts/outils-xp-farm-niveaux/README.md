@@ -7,7 +7,7 @@ Tes outils gagnent de l'XP et des niveaux, et débloquent des pouvoirs custom da
 - 11 outils, chacun avec son arbre : pioche, hache, pelle, épée, houe, lance, arc, arbalète, trident, canne à pêche et cisailles.
 - 2 voies exclusives par outil, avec un ultime à la touche F (Séisme, Tempête, Moisson, Maelström, Barrage...).
 - Tronc commun : auto-réparation, aimant, lien d'âme (l'outil reste à la mort).
-- Évolution du matériau : fer, diamant puis Netherite (points + vrais matériaux).
+- Évolution du matériau : fer, diamant (niveau 20) puis Netherite (niveau 30), payées en points.
 - Prestige au niveau max : étoiles, les 2 voies débloquées et 2 ultimes.
 - Farm : Fortune sur la houe (vrai bonus de récolte sur toutes les houes) et XP sur les minerais qui n'en donnent pas en vanilla (fer, or, cuivre, débris antiques).
 - Boost Unbreaking : une vraie chance bonus d'ignorer la perte de durabilité selon le niveau d'Unbreaking (sur tout item, jusqu'à l'incassable).
