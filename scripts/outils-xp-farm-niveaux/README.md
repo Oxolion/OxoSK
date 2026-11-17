@@ -16,6 +16,11 @@ Tes outils gagnent de l'XP et des niveaux, et débloquent des pouvoirs custom da
 
 Menu : /outil (ou accroupi + clic droit). Remplace FortuneHoe et XP sur minerais (à retirer). Nécessite skript-reflect.
 
+## Apercus en jeu
+
+![outils-xp-farm-niveaux](img/0-banniere.jpg)
+
+
 ---
 
 Script protege OxoSK, chiffre et charge par le plugin CoreOxoSK. Fichier : `Outils-XP-Farm-Niveaux.enc`.

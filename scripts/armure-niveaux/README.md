@@ -15,6 +15,8 @@ Menu : /armure. Nécessite skript-reflect et le script gratuit Surbrillance priv
 
 ## Apercus en jeu
 
+![armure-niveaux](img/0-banniere.jpg)
+
 ![armure-niveaux](img/1-menu.png)
 
 ![armure-niveaux](img/2-casque.webp)

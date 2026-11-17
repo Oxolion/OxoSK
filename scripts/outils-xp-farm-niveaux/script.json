@@ -5,6 +5,6 @@
     "description":  "Tes outils gagnent de l'XP et des niveaux, et débloquent des pouvoirs custom dans un arbre d'évolution.\n\n- 11 outils, chacun avec son arbre : pioche, hache, pelle, épée, houe, lance, arc, arbalète, trident, canne à pêche et cisailles.\n- 2 voies exclusives par outil, avec un ultime à la touche F (Séisme, Tempête, Moisson, Maelström, Barrage...).\n- Tronc commun : auto-réparation, aimant, lien d'âme (l'outil reste à la mort).\n- Évolution du matériau : fer, diamant (niveau 20) puis Netherite (niveau 30), payées en points.\n- Prestige au niveau max : étoiles, les 2 voies débloquées et 2 ultimes.\n- Farm : Fortune sur la houe (vrai bonus de récolte sur toutes les houes) et XP sur les minerais qui n'en donnent pas en vanilla (fer, or, cuivre, débris antiques).\n- Boost Unbreaking : une vraie chance bonus d'ignorer la perte de durabilité selon le niveau d'Unbreaking (sur tout item, jusqu'à l'incassable).\n- Barres de boss pour l'XP de l'outil et la recharge de l'ultime.\n- Équilibré pour le multijoueur : casses en zone qui respectent les protections, anti-farm des blocs posés et des spawners, pouvoirs de zone limités aux monstres.\n\nMenu : /outil (ou accroupi + clic droit). Remplace FortuneHoe et XP sur minerais (à retirer). Nécessite skript-reflect.",
     "fichier":  "Outils-XP-Farm-Niveaux.enc",
     "images":  [
-
+                   "img/0-banniere.jpg"
                ]
 }

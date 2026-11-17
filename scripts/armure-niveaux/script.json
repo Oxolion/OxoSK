@@ -5,6 +5,7 @@
     "description":  "Ton armure monte en niveau avec toi : chaque pièce gagne de l'XP et débloque ses pouvoirs.\n\n- 4 pièces, 4 arbres de pouvoirs custom (aucun enchantement vanilla) : casque, plastron, jambières et bottes, chacun avec 2 voies exclusives (Sentinelle / Stratège, Colosse / Phénix, Titan / Ombre, Vent / Magma).\n- Ultimes automatiques en combat : Renaissance (survis à un coup mortel), Bastion, Disparition, Éruption, Regard pétrifiant...\n- Pouvoirs uniques : invisibilité totale (armure comprise, les monstres t'oublient), double saut, marche sur la lave, monstres visibles à travers les murs (pour toi seul).\n- Évolution du matériau : maille, fer, diamant puis Netherite (points + vrais matériaux).\n- Effets discrets : aucune icône ni particule de potion à l'écran.\n- Équilibré pour le multijoueur : XP seulement en combattant (pas de farm AFK), réductions de dégâts plafonnées.\n\nMenu : /armure. Nécessite skript-reflect et le script gratuit Surbrillance privée (glow-prive).",
     "fichier":  "armure-niveaux.enc",
     "images":  [
+                   "img/0-banniere.jpg",
                    "img/1-menu.png",
                    "img/2-casque.webp",
                    "img/3-plastron.webp",
