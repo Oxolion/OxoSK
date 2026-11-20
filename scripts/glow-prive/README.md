@@ -2,7 +2,7 @@
 
 **Prix :** Gratuit
 
-Fais briller le contour d'une entitÃ© pour un seul joueur, via paquet rÃ©seau : invisible pour le serveur et les autres joueurs. La brique technique derriÃ¨re les pouvoirs de dÃ©tection (Instinct, Marque du chasseur, Sonar). NÃ©cessite skript-reflect.
+Fais briller le contour d'une entité pour un seul joueur, via paquet réseau : invisible pour le serveur et les autres joueurs. La brique technique derrière les pouvoirs de détection (Instinct, Marque du chasseur, Sonar). Nécessite skript-reflect.
 
 ## Apercus en jeu
 

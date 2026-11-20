@@ -2,7 +2,7 @@
 
 **Prix :** 1,49 EUR
 
-Mets en laisse les villageois et marchands ambulants et accroche-les Ã  une barriÃ¨re, comme n'importe quel animal. Clic droit pour attacher ou dÃ©tacher, avec nettoyage automatique des nÅ“uds de barriÃ¨re inutilisÃ©s.
+Mets en laisse les villageois et marchands ambulants et accroche-les à une barrière, comme n'importe quel animal. Clic droit pour attacher ou détacher, avec nettoyage automatique des nœuds de barrière inutilisés.
 
 ## Apercus en jeu
 
